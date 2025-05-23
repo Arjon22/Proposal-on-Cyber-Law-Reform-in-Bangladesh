@@ -13,7 +13,7 @@ The proposal evaluates existing cyber laws in Bangladesh, compares them with fra
 
 ## 📚 Table of Contents
 
-### 1. Proposal Summary  
+### 1. Introduction 
 An overview of the goals, motivation, and context for legal reform in Bangladesh's cyber ecosystem.
 
 ### 2. Objectives of the Proposal  
