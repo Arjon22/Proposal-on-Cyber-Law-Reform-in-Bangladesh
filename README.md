@@ -34,7 +34,7 @@ Detailed reform strategies across six key areas:
 ### 5. Expected Impact  
 Forecasts the outcomes of implementing the proposed legal reforms.
 
-### 📌 Implementation Plan (Phases)
+### 6. Implementation Plan (Phases)
 
 1. Research & Policy Drafting  
 2. Stakeholder Engagement  
